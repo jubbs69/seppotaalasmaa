@@ -5,6 +5,8 @@
 
 
  <head>
+<meta charset="utf-8">
+<link href="style.css" type="text/css" rel="stylesheet"
   <title>
   Juha
   </title>
@@ -12,19 +14,19 @@
  </head>
 
  <body>
-<h1> Otsikko 1</h1>
-<h2>Otsikko 2</h2>
-<h8> Otsikko 8 </h8>
-<p> Juha</p>
+<h1> Hercules</h1> 
+<h2> ylijumala Zeuksen ja kuningatar Alkmenen poika</h2>
+<h8> Jumala</h8>
+<p> Hercules</p>
 <img src="./dora.jpg">
 
 
 <style>
 body {
-  background-image: url(https://wallpaper.dog/large/17137644.jpg);
+  background-image: url(https://mickeyblog.com/wp-content/uploads/2019/02/hercules.jpg);
 }
 </style>
-<a hrefhttps://www.smitegame.com/> Linkki Smiteen</a>
+<a href= https://www.smitegame.com/> Linkki Smiteen</a>
  </body>
 
 
